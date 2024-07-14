@@ -36,13 +36,15 @@ Before you begin, ensure you have met the following requirements:
 ### Steps
 
 1. **Clone the repository:**
+
     \```bash
-    git clone https://github.com/yourusername/skin-lesion-segmentation-classification.git
-    cd skin-lesion-segmentation-classification
+    git clone https://github.com/saeed-rhimi/Cancer-Image-Segmentation-and-Classification.git
+    cd Cancer-Image-Segmentation-and-Classification
     \```
 
-2. **Install the required packages:**
+3. **Install the required packages:**
     Ensure you have pip installed, then run:
+   
     \```bash
     pip install -r requirements.txt
     \```
