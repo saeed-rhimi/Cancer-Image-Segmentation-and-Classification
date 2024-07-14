@@ -37,17 +37,17 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
 
-    \```bash
+    ```bash
     git clone https://github.com/saeed-rhimi/Cancer-Image-Segmentation-and-Classification.git
     cd Cancer-Image-Segmentation-and-Classification
-    \```
+    ```
 
 3. **Install the required packages:**
     Ensure you have pip installed, then run:
    
-    \```bash
+    ```bash
     pip install -r requirements.txt
-    \```
+    ```
 
 This will install all the necessary libraries such as PyTorch, torchvision, segmentation_models_pytorch, and other dependencies.
 
